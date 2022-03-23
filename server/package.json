@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mintablelabs",
+    "web3",
+    "login",
+    "firebase",
+    "node",
+    "metamask"
+  ],
+  "author": "mintablelabs",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "eth-sig-util": "^3.0.1",
+    "express": "^4.17.3",
+    "firebase-admin": "^10.0.2",
+    "web3": "^1.7.1"
+  }
+}
