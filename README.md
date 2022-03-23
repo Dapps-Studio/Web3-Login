@@ -4,7 +4,7 @@ Tutorial: https://mintablelabs.medium.com/web3-login-with-metamask-react-and-nod
 
 ## Requirements
 
-- Add your `serviceAccountKey.json` file inside the server folder
+- Add your `serviceAccountKey.json` (i.e. your firebase admin private key) file inside the server folder. 
 - Open `my-app/src/App.js` and change the values of the `firebaseConfig` variable to match the ones in your firebase project.
 - Node version 16
 
