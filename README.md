@@ -1,6 +1,6 @@
 # Web3 Login with MetaMask, React and Node
 
-Tutorial: https://mintablelabs.medium.com/web3-login-with-metamask-react-and-node-a966ca4c7d89
+Tutorial: https://dapps-studio.medium.com/web3-login-with-metamask-react-and-node-a966ca4c7d89
 
 ## Requirements
 
